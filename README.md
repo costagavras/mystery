@@ -1,4 +1,4 @@
-# Bitmaker Mystery
+  # Bitmaker Mystery
 Today we'll be doing a *Choose Your Own Adventure* story with a twist.
 
 ## Background knowledge
